@@ -1,0 +1,31 @@
+*{
+  box-sizing: border-box;
+}
+header{
+  /* Add height and width here */
+  background-color: lightcyan;
+  text-align: center;
+}
+
+.middle-section{
+  /* Add height and width here */
+  background-color: lightpink;
+  /* Add flex properties here */
+}
+
+aside{
+  /* Add height and width here */
+  background-color: lightseagreen;
+}
+
+.image-section{
+  /* Add height and width here */
+  background-color: aliceblue;
+  /* Add flex properties here */
+  text-align: left;
+}
+
+footer{
+  /* Add height and width here */
+  background-color: lime;
+}
